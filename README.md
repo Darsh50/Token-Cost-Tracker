@@ -47,7 +47,7 @@ pip install requests beautifulsoup4 transformers urllib3
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/vinayvinu500/llm-pricing-calculator.git
+   git clone https://github.com/Darsh50/Token-Cost-Tracker.git
    cd llm-pricing-calculator
    ```
 
